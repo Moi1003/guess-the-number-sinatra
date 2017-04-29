@@ -1,0 +1,13 @@
+hl{
+  font-size: 5em
+}
+
+body {
+color:purple;
+  text-align: center;
+background-image: url("/img/dark-bg2.png");
+}
+
+.btn{
+color:white;  
+}
